@@ -1,4 +1,5 @@
 # provaA1
+O caminho para os scripts contendo os tópicos requeridos: Assets -> Scripts -> GameManager(Unity Events), EnemyHandle(Switch/Case e NavMesh)
 O objetivo do jogo é comer o jantar das guardas. 
 Se elas te detectarem irão atrás de você, caso te peguem, você perde. 
 Atire nas guardas para matar.
